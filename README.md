@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](o)
 <h1 align="center">Hi 👋, I'm Ye Lin Thant</h1>
 <h3 align="center">a student, a teacher and a developer</h3>
 <img align="right" alt="Coding gif" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
