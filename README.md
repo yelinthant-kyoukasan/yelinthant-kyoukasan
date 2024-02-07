@@ -2,13 +2,11 @@
 <h3 align="center">a student, a teacher and a developer</h3>
 <img align="right" alt="Coding gif" width="400" src="https://media4.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif">
 
-- 🔭 I’m currently working on **cellar-online-shop**
+- 🔭 I’m currently working on **an inventory project**
 
-- 🌱 I’m currently learning **Laravel, Vue, MongoDb, MySQL, Node.js**
+- 🌱 I’m currently learning **Laravel, Vue, MongoDB, MySQL, Node.js**
 
-- 🤝 I’m looking for help with **MERN, Laravel, Vue**
-
-- 💬 Ask me about **react, node, javascript**
+- 💬 Ask me about **react, node, vue**
 
 - 📫 How to reach me **jclinton931@gmail.com**
 
