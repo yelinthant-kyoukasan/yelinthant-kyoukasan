@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ye Lin Thant</h1>
-<h3 align="center">a student, a teacher and a developer</h3>
+<h1 align="center">Hi 👋, I'm Clinton</h1>
+<h3 align="center">a student & a developer</h3>
 <img align="right" alt="Coding gif" width="400" src="https://media4.giphy.com/media/H7f5ZGjvKXBaLbBigO/giphy.gif">
 
 - 🔭 I’m currently working on **an inventory project**
